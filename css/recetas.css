@@ -1,0 +1,28 @@
+.recetas{
+    background: #dab997;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width:0){
+    .recetas{
+        padding: 80px 80px 0 80px;
+
+    }
+    
+}
+
+@media screen and (min-width:768px){
+    .recetas{
+        padding:50px 0 0 50px;
+       
+    }
+    
+}
+@media screen and (min-width:992px){
+    .recetas{
+        padding: 50px 0 0 50px;
+}
+        
+    }
+    
